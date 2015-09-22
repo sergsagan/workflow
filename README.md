@@ -10,7 +10,8 @@ For development <br/>
 1. npm install <br/>
 2. bower install <br/>
 3. gulp compile <br/>
-4. grunt dev
+4. grunt dev <br/>
+5. gulp (start server)
 
 For production only after development <br/>
 1. grunt
