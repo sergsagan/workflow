@@ -7,8 +7,10 @@ Jade, Sass, Normalize.css, Babel, Images minification, Html minification, Js min
 2. gulp
 
 For development
-1. gulp compile 
-2. grunt dev
+1. npm install
+2. bower install
+3. gulp compile 
+4. grunt dev
 
 For production only after development
 1. grunt
