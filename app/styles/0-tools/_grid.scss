@@ -1,0 +1,15 @@
+// Grid System
+
+// Lost grid - https://github.com/corysimmons/lost
+
+@lost gutter 30px;
+//@lost flexbox flex;
+//@lost cycle none;
+
+$columns: 12;
+
+@for $i from 1 through $columns {
+  .col-#{$i} {
+    lost-column: $i/$columns;
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "workflow",
+  "version": "0.0.0",
+  "authors": [
+    "kirokydrive <kirokydrive@yandex.ru>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bourbon": "~4.2.5",
+    "normalize-css": "~3.0.3"
+  }
+}

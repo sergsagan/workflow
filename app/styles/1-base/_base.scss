@@ -1,0 +1,16 @@
+// Base styles
+body {
+  lost-utility: edit;
+}
+
+.sprite {
+  text-align: center;
+
+  &__title {
+    margin: 0;
+  }
+
+  &__icon {
+    display: inline-block;
+  }
+}
